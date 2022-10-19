@@ -2,7 +2,7 @@ Hi, I'm Matthäus J. Mrozek from Germany!
 
 🌱 I’m currently learning Flutter (Dart), FlutterFlow, Firebase
 
-:star: In the sdlc, I focus on the early phase using the design-thinking framework, mbse & prototyping
+:star: Within the sdlc, I focus on the early phase using the design-thinking framework, mbse & prototyping
 
 :smiley: Other fields of activity are WordPress & DSGVO
 
