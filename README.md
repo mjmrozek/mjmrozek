@@ -1,6 +1,6 @@
 Matthäus J. Mrozek - @mjmrozek
 
-- 🌱 I’m currently learning Flutter (Dart)
+- 🌱 I’m currently learning Flutter (Dart), FlutterFlow, Firebase
 
 <!---
 mjmrozek/mjmrozek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
