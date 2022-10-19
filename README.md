@@ -1,4 +1,4 @@
-Matthäus J. Mrozek - @mjmrozek
+Hi, I'm Matthäus J. Mrozek from Germany!
 
 🌱 I’m currently learning Flutter (Dart), FlutterFlow, Firebase
 
