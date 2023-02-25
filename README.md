@@ -1,6 +1,6 @@
 Hi, I'm Matthäus J. Mrozek from Germany!
 
-🌱 I’m currently learning Flutter (Dart), FlutterFlow, Firebase
+🌱 I’m currently learning intelliForm: Composer, Server, Pages, JavaScript, XML
 
 :star: Within the sdlc, I focus on the early stages using the design-thinking framework, mbse & prototyping
 
