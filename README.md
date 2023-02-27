@@ -1,6 +1,6 @@
 Hi, I'm Matthäus J. Mrozek from Germany!
 
-🌱 I’m currently learning 3 intelliForm tools (Composer, Server, Pages), JavaScript, XML
+🌱 I’m currently learning 3 intelliForm tools (Composer, Server, Pages) & JavaScript
 
 :star: Within the sdlc, I focus on the early stages using the design-thinking framework, mbse & prototyping
 
