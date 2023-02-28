@@ -1,7 +1,5 @@
 Hi, I'm Matthäus J. Mrozek from Germany!
 
-🌱 I’m currently learning 3 intelliForm tools (Composer, Server, Pages) & JavaScript
-
 :star: Within the sdlc, I focus on the early stages using the design-thinking framework, mbse & prototyping
 
 :smiley: Other fields of activity are WordPress & GDPR / DSGVO (organization, implementation, control)
